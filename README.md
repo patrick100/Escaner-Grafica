@@ -8,10 +8,21 @@ Alumnos: Patrick Lazo Colque
 El proyecto consiste en crear un escaner 3d con poco presupuesto para ello
 se eligio un escaner 3d usando laser y nube de puntos.
 
-## 1. Materiales
+## 1. Materiales Utilizados
 
-### 1.1 
-
+### 1.1 Objeto a escanear
 ![alt text](capturas/objeto.png)
+
+
+### 1.2 Plataforma
+![alt text](capturas/plataforma.png)
+
+### 1.3 Láser con led
+![alt text](capturas/laser.png)
+
+
+### 1.4 Ambiante controlado
+![alt text](capturas/ambiente.png)
+
 
 
