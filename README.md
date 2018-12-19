@@ -22,8 +22,20 @@ se eligio un escaner 3d usando laser y nube de puntos.
 ![alt text](capturas/laser.png)
 
 
-### 1.4 Ambiante controlado
+### 1.4 Ambiente controlado
 ![alt text](capturas/ambiente.png)
+
+## 2. Fases de procesamiento del Escaner
+
+### 2.1 Escaneo del objeto
+![alt text](capturas/binarizacion.png)
+
+### 2.2 Binarización del objeto
+![alt text](capturas/binarizacion.png)
+
+### 2.3 Construcción del Objeto
+![alt text](capturas/resultados.png)
+
 
 
 
