@@ -28,13 +28,13 @@ se eligio un escaner 3d usando laser y nube de puntos.
 ## 2. Fases de procesamiento del Escaner
 
 ### 2.1 Escaneo del objeto
-![alt text](capturas/binarizacion.png)
+![alt text](capturas/escaneo.png)
 
 ### 2.2 Binarización del objeto
 ![alt text](capturas/binarizacion.png)
 
 ### 2.3 Construcción del Objeto
-![alt text](capturas/resultados.png)
+![alt text](capturas/resultado.png)
 
 
 
