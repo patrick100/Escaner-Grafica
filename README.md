@@ -8,10 +8,10 @@ Alumnos: Patrick Lazo Colque
 El proyecto consiste en crear un escaner 3d con poco presupuesto para ello
 se eligio un escaner 3d usando laser y nube de puntos.
 
-### 1. Materiales
+## 1. Materiales
 
-## 1.1 
+### 1.1 
 
-![alt text](capturas/objetos.png)
+![alt text](capturas/objeto.png)
 
 
