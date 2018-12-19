@@ -1,7 +1,8 @@
 # Escaner-Grafica
 Proyecto final escaner en 3d para el curso de computacion grafica csunsa
 
-Alumnos: Patrick Lazo Colque <br/>
+Alumnos: <br/>
+         Patrick Lazo Colque <br/>
          Luis Mamani Chirinos <br/>
          Kevin Valverde Huilca <br/>
          
