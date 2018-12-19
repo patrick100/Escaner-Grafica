@@ -37,7 +37,7 @@ se eligio un escaner 3d usando laser y nube de puntos.
 ![alt text](capturas/resultado.png)
 
 
-### 2.3 Construcción de un eriso 
+### 2.3 Construcción de un erizo 
 ![alt text](capturas/eriso.png)
 
 
