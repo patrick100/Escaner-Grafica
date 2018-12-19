@@ -1,9 +1,9 @@
 # Escaner-Grafica
 Proyecto final escaner en 3d para el curso de computacion grafica csunsa
 
-Alumnos: Patrick Lazo Colque \\
-         Luis Mamani Chirinos \\
-         Kevin Valverde Huilca \\
+Alumnos: Patrick Lazo Colque <br/>
+         Luis Mamani Chirinos <br/>
+         Kevin Valverde Huilca <br/>
          
 El proyecto consiste en crear un escaner 3d con poco presupuesto para ello
 se eligio un escaner 3d usando laser y nube de puntos.
